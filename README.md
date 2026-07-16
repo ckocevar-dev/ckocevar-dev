@@ -7,7 +7,7 @@
 ## 🚀 About Me
 - 🏗️ Experienced software engineer with a strong background in **enterprise-scale Java/Spring** applications.  
 - 🌐 Building **modern full-stack apps** with **Node.js + React** to showcase clean architecture and end-to-end delivery.  
-- 📚 Creator of [rxlog](https://github.com/name-dev/rxlog), a reading workflow manager — demonstrating professional repo hygiene, CI/CD, Docker, and modern React UI.  
+- 📚 Creator of [rxlog](https://github.com/ckocevar-dev/rxlog), a reading workflow manager — demonstrating professional repo hygiene, CI/CD, Docker, and modern React UI.  
 - ⚡ Passionate about **clean code, developer experience, and system design**.  
 
 ---
