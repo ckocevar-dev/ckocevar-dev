@@ -1,6 +1,6 @@
 # Hi, I'm Christian Kocevar 👋
 
-**Full-Stack Developer | 20+ years in enterprise systems (Java/Spring) & modern web apps (Node.js/React)**
+**Full-Stack Developer | 20+ years in enterprise systems (Java/Kotlin/Spring) & modern web apps (Node.js/React)**
 
 ---
 
@@ -23,7 +23,7 @@
 
 ## 📌 Featured Projects
 - [**rxlog**](https://github.com/ckocevar-dev/rxlog) → Reading workflow manager for physical books (Node.js + React + MongoDB)  
-- [**spring-microservice-demo**](https://github.com/name-dev/spring-microservice-demo) → Minimal Spring Boot REST service with CI/CD  
+- [**spring-microservice-demo**](https://github.com/ckocevar-dev/spring-microservice-demo) → Minimal Spring Boot REST service with CI/CD  
 
 ---
 
