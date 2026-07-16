@@ -27,9 +27,6 @@
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ckocevar-dev&show_icons=true&theme=default)
----
 
   
 ## Hi there 👋
