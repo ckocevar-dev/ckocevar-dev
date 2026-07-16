@@ -22,7 +22,7 @@
 ---
 
 ## 📌 Featured Projects
-- [**rxlog**](https://github.com/name-dev/rxlog) → Reading workflow manager for physical books (Node.js + React + MongoDB)  
+- [**rxlog**](https://github.com/ckocevar-dev/rxlog) → Reading workflow manager for physical books (Node.js + React + MongoDB)  
 - [**spring-microservice-demo**](https://github.com/name-dev/spring-microservice-demo) → Minimal Spring Boot REST service with CI/CD  
 
 ---
