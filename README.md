@@ -28,8 +28,7 @@
 ---
 
 ## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=name-dev&show_icons=true&theme=default)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ckocevar-dev&show_icons=true&theme=default)
 ---
 
   
