@@ -13,7 +13,7 @@
 ---
 
 ## 🛠 Tech Stack
-- **Languages:** Java, JavaScript/TypeScript  
+- **Languages:** Java, JavaScript/TypeScript, Kotlin  
 - **Backend:** Spring Boot, Node.js (Express), MongoDB, PostgreSQL  
 - **Frontend:** React, Vite, TailwindCSS  
 - **DevOps:** Docker, Docker Compose, GitHub Actions, Linux  
