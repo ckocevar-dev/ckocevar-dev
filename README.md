@@ -32,9 +32,7 @@
 
 ---
 
-## 📫 Get in Touch
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-link/)  
-- 📧 your.email@example.com  
+  
 ## Hi there 👋
 
 <!--
